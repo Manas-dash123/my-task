@@ -1,0 +1,22 @@
+TASK1
+
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+
+add = a + b
+sub = a - b
+multi = a * b
+division = a / b
+
+print("Addition:", add)
+print("Subtraction:", sub)
+print("Multiplication:", multi)
+print("Division:", division)
+
+task 2
+
+
+first_name=input("enter a first name")
+last_name=input("enter a last name")
+full_name=first_name + last_name
+print("hello"+full_name+ "welcome")
